@@ -38,7 +38,6 @@ A simple Contact Management mini-feature for a CRM that allows users to perform 
 **Clone the Repository**
 ```bash
 git clone https://github.com/ghratika/Contact-Management-System.git
-cd Contact-Management-System
 ### **2. Setup the Backend**
 - Navigate to the server folder: `cd server`
 - Install dependencies: `npm install`
